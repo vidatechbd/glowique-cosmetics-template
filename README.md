@@ -67,7 +67,7 @@ body {
 ```
 
 ### Editing Content
-All content files are located in `components/` and `pages/` directories. Modify them as needed.
+All content files are located in `components/` and pages in `app/` directories. Modify them as needed.
 
 ## Deployment
 For production:
